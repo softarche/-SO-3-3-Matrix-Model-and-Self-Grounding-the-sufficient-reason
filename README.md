@@ -88,6 +88,8 @@ Community: https://zenodo.org/communities/so33-matrix-model
   https://doi.org/10.5281/zenodo.XXXXXXX *(DOI nach Deposit eintragen)*
 - **Die Kette** — the same architecture, first person (German).  
   https://doi.org/10.5281/zenodo.XXXXXXX *(DOI nach Deposit eintragen)*
+
+A BibTeX file with all entries is included in this repository: [references.bib](references.bib)  
   
 ---
 
