@@ -1,21 +1,16 @@
 # -SO-3-3-Matrix-Model-and-Self-Grounding-the-sufficient-reason
-The Sufficient Reason — SO(3,3) matrix model and self-grounding. All Zenodo DOIs. Derivation of physics from Euclid's point: SO(3,3) matrix model, binary icosahedral group 2I*, fine-structure constant to 12 digits. 31 Zenodo deposits + closing volumes.
+SO(3,3) matrix model and self-grounding. All Zenodo DOIs. Derivation of physics from Euclid's point: 
+S³/2I* — Spectral Geometry and the Real Forms of so(6), binary icosahedral group 2I*, fine-structure constant. 32 Zenodo deposits.
 
-# The Sufficient Reason — Complete Series and Technical Deposits
-
-A twelve-volume derivation of physics from a single starting point, plus a
-two-volume closing work (a third-person commentary and a first-person
-companion, *Die Kette*, in German). The framework derives the split signature
+The framework derives the split signature
 (3,3), three spatial dimensions, the gauge structure from the binary
 icosahedral group 2I\*, the cosmological composition, and the inverse
-fine-structure constant α⁻¹ = 137.035999177… as a Laurent series in
-ε = 1/120 — from the two resolutions of the indeterminate form 0/0:
-the differential (f′ = f, the constant e) and the algebraic
-(x² = x + 1, the golden ratio φ).
+fine-structure constant α⁻¹ = 137.035999177
 
 **Author:** Gereon Kraemer · **License:** CC BY 
 
-## Technical deposits — SO(3,3) Matrix Model and Self-Grounding (31 records)
+## Technical deposits — 
+S³/2I* — Spectral Geometry and the Two Real Forms of so(6) (32 records)
 
 Community: https://zenodo.org/communities/so33-matrix-model
 
@@ -81,13 +76,8 @@ Community: https://zenodo.org/communities/so33-matrix-model
   https://doi.org/10.5281/zenodo.21906741
 - **The Interacting Wick Identity: transfer positivity, the existence of the unitary partner, and an equivalence display for the two-modes proposal** (2026-08-13)  
   https://doi.org/10.5281/zenodo.21912757
-
-## Closing volumes (2026)
-
-- **[Commentary — Titel eintragen]** — the complete derivation, third person.  
-  https://doi.org/10.5281/zenodo.XXXXXXX *(DOI nach Deposit eintragen)*
-- **Die Kette** — the same architecture, first person (German).  
-  https://doi.org/10.5281/zenodo.XXXXXXX *(DOI nach Deposit eintragen)*
+- **The Poincaré Homology Sphere and the Fine-Structure Constant: What Follows from a Point Being Here, with the Status of Every Step** (2026-09-07)  
+  https://doi.org/10.5281/zenodo.22638923
 
 A BibTeX file with all entries is included in this repository: [references.bib](references.bib)  
   
